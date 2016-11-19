@@ -1,2 +1,2 @@
 # jmeter
-JMeter数据库压力测试工具学习资料
+JMeter压力测试资料及工具
